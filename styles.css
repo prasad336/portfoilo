@@ -20,7 +20,7 @@
 }
 
 .portfoliologo {
-    background-image: url(profile.png);
+    background-image: url("prasad/profile.png");
     background-size: cover;
     height: 350px;
     width: 350px;
